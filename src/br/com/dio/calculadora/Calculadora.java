@@ -16,7 +16,7 @@ public class Calculadora {
         // solicitando entrada do usuario
         System.out.println("Digite o segundo valor: ");
         // lendo primeira entrada e atribuindo a variavel b
-        b = scan.nextDouble();
+        b = scan.nextDouble(); 
 
         // colocando as variaveis nos metodos
         double somar = somar(a, b);
